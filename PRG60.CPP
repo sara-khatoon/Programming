@@ -2,6 +2,7 @@
 #include<iostream.h>
 #include<conio.h>
 class rectangle;
+// learning git and github
 class square
 { friend class rectengle;
 int side;
