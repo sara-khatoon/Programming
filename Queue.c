@@ -1,7 +1,6 @@
 // implementation of Queue using array
 #include <stdio.h>
 #include <stdlib.h>
-
 int main()
 {
     int n=5,Queue[n];
